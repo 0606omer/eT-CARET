@@ -1,0 +1,15 @@
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\bin\Release\EmployeManagementSystem.exe.config
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\bin\Release\EmployeManagementSystem.exe
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\bin\Release\EmployeManagementSystem.pdb
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.AddEmployee.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.Dasboard.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.Form1.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.MainForm.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.Properties.Resources.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.RegisterForm.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.Salary.resources
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.csproj.GenerateResource.cache
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.exe
+C:\Users\ömer faruk\source\repos\EmployeManagementSystem\obj\Release\EmployeManagementSystem.pdb
